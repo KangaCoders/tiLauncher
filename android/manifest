@@ -1,0 +1,18 @@
+#
+# this is your module manifest and used by Titanium
+# during compilation, packaging, distribution, etc.
+#
+version: 1.0.0
+apiversion: 2
+architectures: armeabi armeabi-v7a x86
+description: tilauncher
+author: KangaCoders Ltd.
+license: Specify your license
+copyright: Copyright (c) 2016 by KangaCoders Ltd.
+
+# these should not be edited
+name: tiLauncher
+moduleid: com.kangacoders.tilauncher
+guid: 4773b332-8240-41ed-99d6-03d3e41e5b0b
+platform: android
+minsdk: 5.0.1.1.KANGA

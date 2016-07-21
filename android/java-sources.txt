@@ -1,0 +1,2 @@
+"/Users/kdesutter/Documents/Projects/launcher/android/build/generated/java/com/kangacoders/launcher/LauncherBootstrap.java"
+"/Users/kdesutter/Documents/Projects/launcher/android/src/com/kangacoders/launcher/LauncherModule.java"
